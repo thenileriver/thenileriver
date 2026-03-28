@@ -4,9 +4,20 @@
 
 **Data Scientist · AI/ML Engineer · Builder**
 
-San Diego, CA &nbsp;|&nbsp; [nks7110@gmail.com](mailto:nks7110@gmail.com) &nbsp;|&nbsp; [LinkedIn](#) https://www.linkedin.com/in/neil-sharma-88451b1b6/
+San Diego/San Jose, CA &nbsp;|&nbsp; [nks7110@gmail.com](mailto:nks7110@gmail.com) &nbsp;|&nbsp; [LinkedIn](#) https://www.linkedin.com/in/neil-sharma-88451b1b6/
 
 </div>
+
+---
+## 🧠 Technical Stack
+```text
+Languages       Python · SQL · TypeScript · C++ · Bash
+ML/DS           PyTorch · XGBoost/LightGBM · scikit-learn · Transformers · Pandas · NumPy
+GenAI & LLMs    OpenAI/Anthropic APIs · LangChain · LlamaIndex · RAG · Langfuse
+Data Eng.       Apache Spark · Databricks · Airflow · dbt · Kafka · Docker · Kubernetes
+MLOps           W&B · MLflow · AWS SageMaker · BentoML · GitHub Actions CI/CD
+Databases       PostgreSQL · Snowflake · BigQuery · MongoDB · Redis · Pinecone · ChromaDB
+```
 
 ---
 
@@ -47,57 +58,6 @@ I'm drawn to projects at the intersection of AI and real-world impact — the me
 **Payactiv — Software Engineer Intern** *(Apr – Jun 2025)*
 - Built a real-time chat platform in React/Node.js using Rocket.Chat APIs
 - Developed an AI customer support chatbot (RAG + LlamaIndex + Pinecone) for domain-specific financial wellness Q&A
-
----
-
-## 🧠 Technical Stack
-```text
-Languages       Python (Advanced) · SQL (Advanced) · TypeScript (Advanced) · C++ · Bash
-ML/DS           PyTorch · XGBoost/LightGBM · scikit-learn · Transformers · Pandas · NumPy
-GenAI & LLMs    OpenAI/Anthropic APIs · LangChain · LlamaIndex · RAG · Langfuse
-Data Eng.       Apache Spark · Databricks · Airflow · dbt · Kafka · Docker · Kubernetes
-MLOps           W&B · MLflow · AWS SageMaker · BentoML · GitHub Actions CI/CD
-Databases       PostgreSQL · Snowflake · BigQuery · MongoDB · Redis · Pinecone · ChromaDB
-```
-
----
-
-## 📌 Featured Projects
-
-<!-- GitHub will show your pinned repos here. The descriptions below are for README context. -->
-
-### [🏙️ San Diego Real Estate Dev Assistant](https://github.com/BrandonGarate177/SanDiego_x_Claude)
-RAG pipeline built as a finalist at Anthropic's first Claude Impact Lab (30+ competing teams).
-Ingests San Diego municipal codes, zoning laws, and building regulations. Features a custom PDF parser
-that extracts structured legal metadata (chapter, article, section, zone codes) for zone-aware retrieval.
-`Claude Sonnet` `LangChain` `ChromaDB` `Python`
-
----
-
-### [🔥 ILLNESS Risk Score](https://gkao25.github.io/dsc180b-illness-score/)
-UCSD Capstone runner-up. A composite PSPS (Public Safety Power Shutoff) risk scoring system for
-San Diego Gas & Electric. Combines regression models, MLP networks, and Gaussian weighted models
-to improve wildfire mitigation strategies. Beat 35+ projects, 150+ students.
-`PyTorch` `scikit-learn` `Pandas` `Python`
-
----
-
-### [👗 Fashion Recommendation App](https://github.com/smallinaUCSD/shopifyminihackathon/tree/backup/pre-rebase-20250810-130029)
-Prize-winning entry at the Shopify Mini-SDK Hackathon. Vector search–based outfit matching with
-one-click Shopify checkout integration.
-`TypeScript` `Podman` `Vector Search`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenileriver&show_icons=true&theme=dark&hide_border=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenileriver&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
 
